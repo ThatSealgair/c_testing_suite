@@ -1,0 +1,3 @@
+[submodule "testing_body/libs/c_testing_library"]
+	path = testing_body/libs/c_testing_library
+	url = git@github.com:ThatSealgair/c_testing_library.git
